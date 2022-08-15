@@ -136,5 +136,5 @@ function iniciarJogo() {
     return false
    } 
 
-   window.location.href = 'app.html?' + nivel
+   window.location.href = 'index.html?' + nivel
 }
